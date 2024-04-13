@@ -22,7 +22,7 @@ function AnalyzeDocument() {
                     'Content-Type': 'application/json',
                 },
                 body: JSON.stringify({
-                    query: "Analyze the document and provide a summary, risks, savings, and suggestions",
+                    query: "Analise o documento e forneça um resumo, riscos, economias e sugestões",
                     data_dict: {
                         pdf: {
                             pdfUrl: pdfUrl
