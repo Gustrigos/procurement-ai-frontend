@@ -8,7 +8,7 @@ import Bottombar from "@/components/shared/Bottombar";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Mentum AI",
+  title: "Procurement AI",
   description: "An AI-powered Procurement App.",
 };
 

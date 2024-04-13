@@ -78,7 +78,7 @@ function UploadDocument() {
             render={({ field }) => (
               <FormItem className='flex w-full flex-col'>
                 <FormLabel className='text-base-semibold text-dark-2'>
-                  Document Name
+                  Vendor Name
                 </FormLabel>
                 <FormControl>
                   <Input
