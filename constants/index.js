@@ -4,13 +4,13 @@ import { IoDocumentTextOutline } from "react-icons/io5";
 export const sidebarLinks = [
   {
     Icon: IoDocumentTextOutline,
-    route: "/upload-document",
-    label: "Upload Document",
+    route: "/upload-rfp",
+    label: "Upload RFP",
   },
   {
     Icon: RiAiGenerate,
-    route: "/analyze-document",
-    label: "Analyze Document",
+    route: "/analyze-rfp",
+    label: "Analyze RFP",
   },
   {
     Icon: RiSettings4Line,
